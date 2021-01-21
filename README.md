@@ -1,3 +1,7 @@
+# `Link Of The Hosted App`
+
+<a href='https://tinder-mern-clone-15f14.web.app/'>Click Here</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
